@@ -106,3 +106,7 @@ git clone https://github.com/Sara-Hosseini/machine-learning-specialization-capst
 cd machine-learning-specialization-capstone
 pip install -r requirements.txt
 jupyter notebook
+
+This project is part of a broader learning path aligned with the
+Machine Learning Specialization by DeepLearning.AI.
+Detailed certification information is available in [certificates.md](certificates.md).
